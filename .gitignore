@@ -49,3 +49,6 @@ coverage
 /ctrf-shards/
 /ctrf-shard-*.json
 /merged-ctrf/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
